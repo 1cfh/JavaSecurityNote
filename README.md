@@ -6,3 +6,8 @@
 
 - log4j2
 
+
+
+## SSTI
+
+- freemarker模板注入
